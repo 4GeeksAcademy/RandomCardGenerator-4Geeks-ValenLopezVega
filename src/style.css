@@ -44,4 +44,5 @@ main{
 #card #bottom-icon{
     align-self: flex-end;
     font-size: 7em;
+    transform: rotate(180deg);
 }
